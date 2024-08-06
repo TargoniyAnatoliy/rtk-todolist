@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rtk-todolist/static/css/main.beca01a9.css",
+    "main.js": "/rtk-todolist/static/js/main.8bbacf77.js",
+    "index.html": "/rtk-todolist/index.html",
+    "main.beca01a9.css.map": "/rtk-todolist/static/css/main.beca01a9.css.map",
+    "main.8bbacf77.js.map": "/rtk-todolist/static/js/main.8bbacf77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beca01a9.css",
+    "static/js/main.8bbacf77.js"
+  ]
+}
